@@ -25,10 +25,10 @@ g++ -o alone_pong alone_pong.cpp -lsfml-graphics -lsfml-window -lsfml-system
 That’s it! You can now enjoy the game and test your skills in this solo Pong adventure. Use arrow keys to play.
 
 
-
 ## Technologies Used
 
 This implementation of AlonePong is written in C++ and uses the SFML (Simple and Fast Multimedia Library) for graphics and window management.
+
 
 ## Feedback and Contributions
 
